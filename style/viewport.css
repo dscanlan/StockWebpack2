@@ -1,0 +1,57 @@
+@-ms-viewport {
+    width: device-width;
+    initial-scale:1;
+    maximum-scale:1;
+}
+
+/* LARGE SCREENS */
+
+@media only screen and (min-width: 1824px) {
+ 
+}
+
+/*** Desktops & Laptops ***/
+
+@media only screen and (min-device-width: 980px) {
+ 
+}
+
+/* Portrait view of all tablet devices */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+ 
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  
+}
+
+/*** IPhones 6 PLUS ***/
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: portrait) {
+ 
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape) {
+  
+}
+
+/*** IPhones 6 ***/
+
+@media only screen and (max-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) {
+  
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) {
+  
+}
+
+@media handheld,
+screen and (max-width:400px) {
+   
+}
+
+@media handheld,
+screen and (max-width: 400px) {
+   
+}
